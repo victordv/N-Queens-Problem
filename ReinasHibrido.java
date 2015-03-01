@@ -1,7 +1,7 @@
-/* Descripcion: Clase que realiza el problema de lan N reinas con un algoritmo hibrido
+/* Descripcion: Clase que realiza el problema de las N reinas con un algoritmo hibrido
 * Autor: Víctor del Valle del Apio
 * e-mail: victorvalleapio@gmail.com
-* Fecha: 03-07-2013
+* Fecha: 13-06-2014
 */
 
 import java.util.Random;
